@@ -1,0 +1,23 @@
+
+svg {
+  margin-left: 0px !important;
+  border-style: solid;
+  border-color: grey;
+  border-width: 2px;
+}
+.img-thumbnail{
+	height: 150px !important;
+	width: 150px !important;
+	border-style: solid;
+  	border-color: grey;
+  	border-width: 2px;
+  	margin-right: 10px
+}
+#dvMap{
+	border-style: solid;
+  	border-color: grey;
+  	border-width: 2px;
+}
+.nvd3-svg{
+	height:246px !important;
+}

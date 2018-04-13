@@ -1,0 +1,49 @@
+.line{
+    width: 1050px;
+    height: 5px;
+    border-bottom: 1px solid black;
+   
+    }
+    hr.style13 {
+	height: 3px;
+	border: 0;
+	box-shadow: 0 14px 10px -10px #8c8b8b inset;
+width:350px;
+margin-left:55px}
+    .grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-column-gap: 30px;
+  grid-row-gap: 10px;
+  padding: 10px;
+ 
+}
+.grid-container>div {
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  padding:20px 0;
+  font-size: 20px;  border:solid black 1px;
+
+.topleft {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: 18px;
+}
+* {box-sizing: border-box;}
+*:hover, *:focus {outline:0}
+
+body html {
+  position: relative;
+  min-height: 100%;
+  background: rgba(0,0,0,.3);
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-size: 17px;
+  color:#777;
+}
+button, select, input {
+  font-family: 'Roboto', sans-serif;
+  font-size: 17px;
+}
+

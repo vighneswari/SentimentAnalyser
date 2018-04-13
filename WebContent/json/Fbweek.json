@@ -1,0 +1,27 @@
+[
+	{
+		"Date": "01-02-2018",
+		"Negative": "57",
+		"Positive": "91",
+		"Neutral": "46"
+	},
+	{
+		"Date": "02-03-2018",
+		"Negative": "44",
+		"Positive": "66",
+		"Neutral": "55"
+	},
+	{
+		"Date": "03-04-2018",
+		"Negative": "635",
+		"Positive": "835",
+		"Neutral": "1048"
+	},
+	{
+		"Date": "04-05-2018",
+		"Negative": "534",
+		"Positive": "630",
+		"Neutral": "822"
+	}
+
+]
